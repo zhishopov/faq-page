@@ -21,8 +21,16 @@ h2 {
 
 header {
   background-color: #f8fafc;
+  width: 100%;
+  text-align: center;
+  padding: 5%;
+  line-height: 50px;
 }
 
 a {
   color: #4e80ee;
+}
+
+.section-one {
+  width: 50%;
 }
